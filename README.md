@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @roberto2286
+- 👋 Hi, I’m Roberto Ramos
 - 👀 I’m interested in JavaScript, React, React Native, Dart and Flutter
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on nothing at the moment
